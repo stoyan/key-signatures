@@ -4,7 +4,7 @@ An app to help learn key signatures
 
 ## Try it out
 
-[Triads practice tool](https://www.onlinemusictools.com/key-signatures/)
+[Key signatures practice tool](https://www.onlinemusictools.com/key-signatures/)
 
 ## Built with...
 
